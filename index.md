@@ -1,7 +1,7 @@
 ---
 ---
 
-# _A program for the things you didn’t learn in class_
+# _A program for the things you_ didn't _learn in class_
 
 The University of Arizona Libraries is seeking an inaugural cohort of graduate student fellows interested in building skills in digital scholarship or data science and willing to share their knowledge back to the UA community through workshops and online training materials. We encourage applications from students at any phase of their graduate studies who have identified a technical gap in their formal coursework and training that requires self-directed learning. We are committed to fostering a cohort of graduate student fellows drawn from a broad range of disciplines and domains represented on campus.
 
