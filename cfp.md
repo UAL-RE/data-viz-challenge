@@ -1,9 +1,9 @@
 ---
-title: Digital Scholarship & Data Science Fellowship
-subtitle: Call for Proposals
 ---
 
-# Summary
+# Call for proposals
+
+## Summary
 This fellowship program is designed to address three known challenges in contemporary higher education:
 
 + Insufficient technical training for digital or data-intensive research within subject disciplines;
@@ -59,4 +59,4 @@ Prospective applicants are also encouraged to attend an information session on S
 
 ***
 
-Return to the [University of Arizona DS^2^F page](https://ds2f.github.io/arizona)
+Return to the [University of Arizona DS<sup>2</sup>F page](https://ds2f.github.io/arizona)
