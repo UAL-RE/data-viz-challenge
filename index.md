@@ -10,12 +10,5 @@ The University of Arizona Libraries is seeking an inaugural cohort of graduate s
 
 The Digital Scholarship & Data Science Fellowship program (DS<sup>2</sup>F) is designed to cross academic years, beginning in January 2020 and running through December 2020. During the spring semester, fellows will engage in a scaffolded process of entrepreneurial inquiry while also participating in a series of librarian-led workshops focused on instructional design, digital pedagogy, and open educational resources. In the fall semester, fellows transition from learners to instructors as they prepare public workshops on their chosen topic. Fellows will also create online tutorials that will be included in an open access repository of training materials for data-intensive, computational research.
 
-<!-- original
-Interested? Read the [call for proposals]({{ relative_root_path }}{% link cfp.md %})
--->
-
 Interested? Read the [call for proposals](cfp.md)
 
-<!-- Footer -->
-![]({{ relative_root_path }}{% link assets/images/UAL_Redux_footer.svg %}){:width="250"}
-<!-- End Footer -->

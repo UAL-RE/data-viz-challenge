@@ -62,5 +62,3 @@ Prospective applicants are also encouraged to attend an information session on S
 ***
 
 Return to the [University of Arizona DS<sup>2</sup>F page](index.md)
-
-{% include footer.html %}
