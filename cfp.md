@@ -1,4 +1,5 @@
 ---
+title: Call for Proposals
 ---
 
 # Call for proposals
@@ -26,7 +27,7 @@ The program runs January 2020-December 2020 and includes weekly meetings on Frid
 $1,500 total, disbursed in two installments.
 
 ## Deliverables
-A public workshop in Fall 2020 and accompanying curricular materials that are made openly available online. Fellows can choose from the following Creative Commons licenses/marks so that their curricular materials can be reused and adapted by others: CC BY, CC BY-SA, CC BY-NC, CC BY-NC-SA, or CC0. Library staff will assist fellows in identifying appropriate licence.
+A public workshop in Fall 2020 and accompanying curricular materials that are made openly available online. Fellows can choose from the following Creative Commons licenses/marks so that their curricular materials can be reused and adapted by others: [CC BY](https://creativecommons.org/licenses/by/4.0/), [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/), [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), or [CC0](https://creativecommons.org/share-your-work/public-domain/cc0). Library staff will assist fellows in identifying an appropriate licence.
 
 ## How to apply
 Applications are due **October 15, 2019** (by 11:59 pm local Arizona time).
@@ -35,8 +36,9 @@ Please submit the following materials to [https://forms.gle/DU8FWuL3txTBmNeaA](h
 
 + A statement of intent, in 2 pages or less, that addresses
     1. the technical skill that you would like to pursue through self-directed learning as a member of the cohort,
-    2. how this skill applies to your research trajectory, and
-    3. your interest and willingness to design and deliver public workshops that are open to the UA community.
+    2. how this skill applies to your research trajectory,
+    3. your interest and willingness to design and deliver public workshops that are open to the UA community, and
+    4. what diverse perspectives or representation you would contribute to the cohort.
 + A current C.V.
 + Contact information for two references, at least one in your academic program
 
@@ -59,4 +61,8 @@ Prospective applicants are also encouraged to attend an information session on S
 
 ***
 
-Return to the [University of Arizona DS<sup>2</sup>F page](https://ds2f.github.io/arizona)
+Return to the [University of Arizona DS<sup>2</sup>F page]({{ relative_root_path }}{% link index.md %})
+
+<p class="test-font">Green font?</p>
+
+{% include footer.html %}
