@@ -14,7 +14,7 @@ The Digital Scholarship & Data Science Fellowship program (DS<sup>2</sup>F) is d
 Interested? Read the [call for proposals]({{ relative_root_path }}{% link cfp.md %})
 -->
 
-Interested? Read the [call for proposals]({% link cfp.md %})
+Interested? Read the [call for proposals](cfp.md)
 
 <!-- Footer -->
 ![]({{ relative_root_path }}{% link assets/images/UAL_Redux_footer.svg %}){:width="250"}
