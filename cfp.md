@@ -12,7 +12,7 @@ This fellowship program is designed to address three known challenges in contemp
 + A need for ongoing development of modular curricula for emerging technology that can be integrated into the classroom and extracurricular workshops, or used independently by scholars and researchers at the point of need.
 
 ## Eligibility
-Graduate students enrolled full time in both Spring 2020 and Fall 2020 in any college or discipline.
+Graduate students at the University of Arizona who are enrolled full time in both Spring 2020 and Fall 2020 in any college or discipline.
 
 ## What you get
 Support for building technical skills related to your research and opportunities to apply instructional design and digital pedagogy by creating and delivering new workshop content.
