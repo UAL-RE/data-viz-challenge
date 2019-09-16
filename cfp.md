@@ -32,7 +32,7 @@ A public workshop in Fall 2020 and accompanying curricular materials that are ma
 ## How to apply
 Applications are due **October 15, 2019** (by 11:59 pm local Arizona time).
 
-Please submit the following materials to [https://forms.gle/DU8FWuL3txTBmNeaA](https://forms.gle/DU8FWuL3txTBmNeaA):
+Please submit the following materials to [https://tinyurl.com/ua-ds2f](https://tinyurl.com/ua-ds2f):
 
 + A statement of intent, in 2 pages or less, that addresses
     1. the technical skill that you would like to pursue through self-directed learning as a member of the cohort,
