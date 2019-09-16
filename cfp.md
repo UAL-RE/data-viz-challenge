@@ -21,7 +21,7 @@ Support for building technical skills related to your research and opportunities
 An opportunity to activate a multidisciplinary network of graduate students engaged in digital scholarship or data science, and a suite of instructional materials that can be reused and integrated into future instruction and training.
 
 ## Time commitment
-The program runs January 2020-December 2020 and includes weekly meetings on Friday afternoons while classes are in session as well as self-directed learning time, with an estimated commitment of approximately 4 hours per week.
+The program runs January 2020 through December 2020 and includes weekly meetings on Friday afternoons while classes are in session as well as self-directed learning time, with an estimated commitment of approximately 4 hours per week.
 
 ## Stipend
 $1,500 total, disbursed in two installments.
@@ -43,7 +43,7 @@ Please submit the following materials to [https://forms.gle/DU8FWuL3txTBmNeaA](h
 + Contact information for two references, at least one in your academic program
 
 ## Application evaluation
-All applicants will be notified by November 30. Selected applicants may be contacted for 20-minute Zoom interviews during the review period. Applicants will be selected based on the strength of their individual statements with preference given to enhancing the overall diversity of the cohort and interest in fellowship projects whose outcomes will serve the needs of the broader UA community.
+All applicants will be notified by November 30, 2019. Selected applicants may be contacted for 20-minute Zoom interviews during the review period. Applicants will be selected based on the strength of their individual statements with preference given to enhancing the overall diversity of the cohort and interest in fellowship projects whose outcomes will serve the needs of the broader University of Arizona community.
 
 ## Sample projects
 We welcome applications that address any aspect of digital scholarship or data science, including projects focused on tools, methods, or techniques. Some potential areas for exploration could include:
