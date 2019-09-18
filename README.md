@@ -6,11 +6,10 @@ This is the code repository for the University of Arizona Digital Scholarship & 
 ### Development notes
 These are largely taken from the GitHub help article [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll). Instructions below are for Linux, but the GitHub page has information for other operating systems.
 
-1. For local development, will need to have Ruby. Check this in a terminal via:
+1. For local development, will need to have Ruby version 2.1.0 or higher. Check this in a terminal via:
 ```
 ruby --version
 ```
-Make sure it's version 2.1.0 or higher
 2. Install Bundler
 ```
 gem install Bundler
@@ -21,11 +20,10 @@ gem install Bundler
 echo "source 'https://rubygems.org'" >> Gemfile
 echo "gem 'github-pages', group: :jekyll_plugins" >> Gemfile
 ```
-5. Install Jekyll using Bundler by running this in a Terminal:
+5. Install Jekyll using Bundler. Note this should be run in the root directory of the repository, where the Gemfile is located (i.e. "arizona"):
 ```
 bundle Install
 ```
-Note this should be run in the root directory of the repository, where the Gemfile is located (i.e. "arizona")
 6. It also wouldn't hurt to add local development Jekyll debris to .gitignore
 ```
 echo "Gemfile" >> .gitignore
