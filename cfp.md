@@ -14,12 +14,6 @@ This fellowship program is designed to address three known challenges in contemp
 ## Eligibility
 Graduate students at the University of Arizona who are enrolled full time in both Spring 2020 and Fall 2020 in any college or discipline.
 
-## What you get
-Support for building technical skills related to your research and opportunities to apply instructional design and digital pedagogy by creating and delivering new workshop content.
-
-## What we get
-An opportunity to activate a multidisciplinary network of graduate students engaged in digital scholarship or data science, and a suite of instructional materials that can be reused and integrated into future instruction and training.
-
 ## Time commitment
 The program runs January 2020 through December 2020 and includes weekly meetings on Friday afternoons while classes are in session as well as self-directed learning time, with an estimated commitment of approximately 4 hours per week.
 
@@ -55,10 +49,6 @@ We welcome applications that address any aspect of digital scholarship or data s
 + Network analysis, neural networks, machine learning
 
 ## For more information
-Have a project idea but aren't quite sure if it fits? Curious to know more about the program? For these and all other inquiries, please contact Jeff Oliver at [jcoliver@email.arizona.edu](mailto:jcoliver@email.arizona.edu?subject=DS2F%20Inquiry).
+Have a project idea but aren't quite sure if it fits? Curious to know more about the program? Take a look at our [Frequently Asked Questions](faq.md).
 
-Prospective applicants are also encouraged to attend an information session on September 27, 2019 at noon in the Main Library ILC classroom (Room 112A).
-
-***
-
-Return to the [University of Arizona DS<sup>2</sup>F page](index.md)
+Prospective applicants are also encouraged to attend an information session on September 27, 2019, noon to 1pm, in the Main Library ILC classroom (Room 112A).
