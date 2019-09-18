@@ -1,0 +1,16 @@
+# Navigation links
+
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: CFP
+  url: /cfp/
+  excerpt:
+  image:
+
+- title: FAQs
+  url: /faq/
+  excerpt:
+  image:

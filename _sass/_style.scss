@@ -1,0 +1,26 @@
+/* Styling
+   Menu style based on Collections as Data site
+   https://github.com/collectionsasdata/part2whole */
+
+/* For top navigation */
+.menu-item {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    text-align: center;
+    padding: 10px 20px;
+  }
+  a {
+    float: right;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    background-color: #EFEFEF;
+  }
+  a:hover {
+    background-color: #D1D1D1;
+  }
+}
