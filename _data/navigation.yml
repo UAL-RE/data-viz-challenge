@@ -1,16 +1,16 @@
 # Navigation links
 
 - title: Home
-  url: {{ relative_url}}
+  url: /
   excerpt:
   image:
 
 - title: CFP
-  url: {{ cfp | relative_url }}
+  url: /cfp/
   excerpt:
   image:
 
 - title: FAQs
-  url: {{ faq | relative_url }}
+  url: /faq/
   excerpt:
   image:
