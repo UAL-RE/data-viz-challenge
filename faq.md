@@ -8,7 +8,7 @@ title: Frequently Asked Questions
 Graduate students at the University of Arizona who are enrolled full time in both Spring 2020 and Fall 2020 in any college or discipline.
 
 ## How do I apply?
-Please see the [Call for Proposals](cfp.md) for application details.
+Please see the [Call for Applications](apply.md) for application details.
 
 ## When are applications due?
 All application materials are due by October 15, 2019 (11:59 pm local Arizona time).
