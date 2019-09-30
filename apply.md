@@ -1,5 +1,6 @@
 ---
-title: Call for Proposals
+title: Call for Applications
+redirect_from: /cfp
 ---
 
 # Call for proposals
