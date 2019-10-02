@@ -44,12 +44,12 @@ All applicants will be notified by November 30, 2019. Selected applicants may be
 We welcome applications that address any aspect of digital scholarship or data science, including projects focused on tools, methods, or techniques. Some potential areas for exploration could include:
 
 + Web scraping, text data mining, natural language processing
-+ Digital publishing platforms, electronic notebooks, digital project management
++ Digital publishing platforms (e.g. Omeka, Scalar), electronic notebooks, digital project management
 + Data visualization, 3-D modeling
 + Data cleaning, data analysis
 + Network analysis, neural networks, machine learning
 
+Note this is _not_ an exhaustive list, but just some examples of the areas which may have broad appeal to the campus audience.
+
 ## For more information
 Have a project idea but aren't quite sure if it fits? Curious to know more about the program? Take a look at our [Frequently Asked Questions](faq.md).
-
-Prospective applicants are also encouraged to attend an information session on September 27, 2019, noon to 1pm, in the Main Library ILC classroom (Room 112A).
