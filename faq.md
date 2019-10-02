@@ -20,7 +20,7 @@ Applicants will be selected based on the strength of their individual statements
 All applicants will be notified by November 30, 2019. Selected applicants may be contacted for 20-minute Zoom interviews during the review period.
 
 ## What if I missed the information session?
-The presentation from the information session is available for download [here](assets/pdf/DS2F-Info-Session-2019-27.pdf).
+The presentation from the information session is available for download [here](assets/pdf/DS2F-Info-Session-2019-09-27.pdf).
 
 ## What kind of projects are appropriate to propose?
 We welcome applications that address any aspect of digital scholarship or data science, including projects focused on tools, methods, or techniques. Some potential areas for exploration could include:
