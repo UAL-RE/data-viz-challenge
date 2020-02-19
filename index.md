@@ -1,14 +1,62 @@
 ---
-title: Digital Scholarship & Data Science Fellowship
+title: Data Visualization Challenge
 ---
 
-# Digital Scholarship & Data Science Fellowship
+**TODO** Add preamble introducing the challenge
 
-## _A program for the things you didn't learn in class_
+# Eligibility
+This competition is open to all University of Arizona students enrolled full-time for the Spring 2020 semester. Undergraduate, graduate, and professional students from all disciplines are encouraged to compete. _Individuals from minority or underrepresented groups are particularly encouraged to apply_.
 
-The University of Arizona Libraries are seeking an inaugural cohort of graduate student fellows interested in building skills in digital scholarship or data science and willing to share their knowledge back to the University of Arizona community through workshops and online training materials. We encourage applications from students at any phase of their graduate studies who have identified a technical gap in their formal coursework and training that requires self-directed learning. We are committed to fostering a cohort of graduate student fellows drawn from a broad range of disciplines and domains represented on campus.
+All entries must be original work and the submitter must have permission to use the data in this competition. Collaborative works are permitted, although awards will be made to the individual submitting the work. Individuals may submit a single entry. All entries must be made through the official submission mechanism (see below) by April 3, 2020.
 
-The Digital Scholarship & Data Science Fellowship program (DS<sup>2</sup>F) is designed to cross academic years, beginning in January 2020 and running through December 2020. During the spring semester, fellows will engage in a scaffolded process of entrepreneurial inquiry while also participating in a series of librarian-led workshops focused on instructional design, digital pedagogy, and open educational resources. In the fall semester, fellows transition from learners to instructors as they prepare public workshops on their chosen topic. Fellows will also create online tutorials that will be included in an open access repository of training materials for data-intensive, computational research.
+# Types of submissions:
+Data visualizations may include but are not limited to: maps, charts, graphs, data art, and 3D models. Submissions can be static, animated, or web-based interactive stories. See [Evaluation criteria](#evaluation-criteria), below, for information about how submissions will be judged.
 
-Interested? Read the [call for applications](apply.md)
+In addition to the data visualization submission, all entries must be accompanied by a creator's statement, describing with work (100 words maximum) and a brief biography (50 words maximum).
 
+# How to submit
+All entries should be submitted through the [submission form](https://docs.google.com/forms/d/1r6CUuA0b9SRO408RoTsokVM8qZjYui3519TjF7wakSM/edit?usp=sharing).
+
+The submission requires:
+
++ Name
++ Contact info
++ College and departmental affiliation
++ Student status (undergraduate, graduate, professional)
++ Title of work
++ Abstract (100 words)
++ Attach file (option 1, static - specify file type, maximum file size)
++ Link to site (option 2 - video, interactive, can be to a video, GitHub repo, cloud storage link, other)
++ Agree to license terms (they retain copyright but allow UA to use, display, etc…) (Check box)
++ Agree that it is their own work (Check box)
+
+# License terms
+By submitting your entry to this competition, you agree to the following, which allows the University of Arizona Libraries to display and provide access to your visualization:
+
+_I grant the University of Arizona a non-exclusive license and royalty-free permission to use my visualization and accompanying text in perpetuity in their original forms and/or modified forms for the purpose of promoting the competition and the projects taking place at the University, and I have the necessary rights, permissions, and/or licenses to grant the University these rights. I understand that this means that such materials, in their original forms and/or modified forms, may be incorporated in any and all media. If I wish to revoke permissions to use my visualization, I must do so in writing to the University Libraries._
+
+_By accepting this license, you still retain copyright to your work and do not give up the right to submit the work to publishers or other repositories. The University Libraries will clearly identify your name as the creator of the submission and will not make any alteration, other than as allowed by this license, to your submission. By accepting this license, you acknowledge that you have read and agreed to the terms of this agreement and all related University Libraries policies._
+
+# Evaluation criteria
+Submissions will be evaluated on the ability to convey information in a meaningful and aesthetically appealing way. When developing a submission, participants should consider the following:
+
++ Are the data accurate and from a reliable source?
++ What is the message or main point of the visualization?
++ Is the visualization clear to a non-specialist?
++ Is this a novel way of displaying the data at hand?
++ Does the visualization use space and color in an effective way?
++ If the submission is interactive, is it intuitive?
+
+_Submissions using open and reproducible methods are strongly encouraged to apply_.
+
+# Awards
+Undergraduate and graduate/professional student submissions will be judged separately, and there will be first ($250), second ($150), and third ($100) place awards for both categories. All awards will be announced on Friday, May 1, 2020.
+
+All awards will be processed through the Bursar's Office. Please note: Awards won may have an effect on your student financial aid eligibility. Questions regarding awards and their impact on student financial aid eligibility should be addressed to the Office of Student Financial Aid (OSFA).
+
+Awards may also be considered taxable income. The winner is responsible for any related taxes.
+
+# Exhibition of submissions
+Winning submissions will be made accessible through the Data Visualization Challenge website. In addition, any content that meets AV requirements will be presented in the Data Studio in the CATalyst Studios.
+
+If you have additional questions, see our [Frequently Asked Questions](faq.md) page.
