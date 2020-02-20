@@ -2,7 +2,11 @@
 title: Data Visualization Challenge
 ---
 
-**TODO** Add preamble introducing the challenge
+<br>
+
+The Office of Digital Innovation & Stewardship at the University of Arizona Libraries is holding a data visualization challenge to highlight how UArizona students use visual displays of data to tell stories. Eligibility information and submission details can be found below.
+
+[![Early (ca. 10th or 11th century) visual representation of planetary movements in two-dimensional space](https://upload.wikimedia.org/wikipedia/commons/1/12/Planetary_Movements.gif)](https://commons.wikimedia.org/wiki/File:Planetary_Movements.gif)
 
 # Eligibility
 This competition is open to all University of Arizona students enrolled full-time for the Spring 2020 semester. Undergraduate, graduate, and professional students from all disciplines are encouraged to compete. _Individuals from minority or underrepresented groups are particularly encouraged to apply_.
