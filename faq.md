@@ -4,6 +4,8 @@ title: Frequently Asked Questions
 
 # Frequently Asked Questions
 
+[![Early (ca. 10th or 11th century) visual representation of planetary movements in two-dimensional space](https://upload.wikimedia.org/wikipedia/commons/1/12/Planetary_Movements.gif)](https://commons.wikimedia.org/wiki/File:Planetary_Movements.gif)
+
 ## Who is eligible?
 Students at the University of Arizona who are enrolled full time in both Spring 2020 in any college or discipline.
 
