@@ -7,10 +7,10 @@ title: Frequently Asked Questions
 [![Early (ca. 10th or 11th century) visual representation of planetary movements in two-dimensional space](https://upload.wikimedia.org/wikipedia/commons/1/12/Planetary_Movements.gif)](https://commons.wikimedia.org/wiki/File:Planetary_Movements.gif)
 
 ## Who is eligible?
-Students at the University of Arizona who are enrolled full time in both Spring 2020 in any college or discipline.
+Students at the University of Arizona who are enrolled full time Spring 2020 in any college or discipline.
 
 ## How do I apply?
-Submissions are accepted through the [submission form](https://docs.google.com/forms/d/1r6CUuA0b9SRO408RoTsokVM8qZjYui3519TjF7wakSM/edit?usp=sharing). See the [program homepage](index.md) for requirements and a list of submission details.
+Submissions are accepted through the [submission form](https://forms.gle/ugJfYRQfLMvY1r3C9). See the [program homepage](index.md) for requirements and a list of submission details.
 
 ## When are applications due?
 All application materials are due by April 3, 2020 (11:59 pm local Arizona time).

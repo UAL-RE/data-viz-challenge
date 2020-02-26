@@ -19,7 +19,7 @@ Data visualizations may include but are not limited to: maps, charts, graphs, da
 In addition to the data visualization submission, all entries must be accompanied by a creator's statement, describing with work (100 words maximum) and a brief biography (50 words maximum).
 
 ## How to submit
-All entries should be submitted through the [submission form](https://docs.google.com/forms/d/1r6CUuA0b9SRO408RoTsokVM8qZjYui3519TjF7wakSM/edit?usp=sharing).
+All entries should be submitted through the [submission form](https://forms.gle/ugJfYRQfLMvY1r3C9).
 
 The submission requires:
 
