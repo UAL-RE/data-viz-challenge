@@ -13,7 +13,7 @@ Students at the University of Arizona who are enrolled full time Spring 2020 in 
 Submissions are accepted through the [submission form](https://forms.gle/ugJfYRQfLMvY1r3C9). See the [program homepage](index.md) for requirements and a list of submission details.
 
 ## When are applications due?
-All application materials are due by April 3, 2020 (11:59 pm local Arizona time).
+All application materials are due by April 17, 2020 (11:59 pm local Arizona time).
 
 ## What are the application evaluation criteria?
 Submissions will be evaluated on the ability to convey information in a meaningful and aesthetically appealing way. When developing a submission, participants should consider the following:

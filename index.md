@@ -11,7 +11,7 @@ The Office of Digital Innovation & Stewardship at the University of Arizona Libr
 ## Eligibility
 This competition is open to all University of Arizona students enrolled full-time for the Spring 2020 semester. Undergraduate, graduate, and professional students from all disciplines are encouraged to compete. _Individuals from minority or underrepresented groups are particularly encouraged to apply_.
 
-All entries must be original work and the submitter must have permission to use the data in this competition. Collaborative works are permitted, although awards will be made to the individual submitting the work. Individuals may submit a single entry. All entries must be made through the official submission mechanism (see below) by April 3, 2020.
+All entries must be original work and the submitter must have permission to use the data in this competition. Collaborative works are permitted, although awards will be made to the individual submitting the work. Individuals may submit a single entry. All entries must be made through the official submission mechanism (see below) by ~~April 3, 2020~~ April 17, 2020.
 
 ## Types of submissions:
 Data visualizations may include but are not limited to: maps, charts, graphs, data art, and 3D models. Submissions can be static, animated, or web-based interactive stories. See [Evaluation criteria](#evaluation-criteria), below, for information about how submissions will be judged.
