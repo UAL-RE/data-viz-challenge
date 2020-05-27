@@ -67,3 +67,21 @@ Awards may also be considered taxable income. The winner is responsible for any 
 Winning submissions will be made accessible through the Data Visualization Challenge website. In addition, any content that meets AV requirements will be presented in the Data Studio in the CATalyst Studios.
 
 If you have additional questions, see our [Frequently Asked Questions](faq.md) page.
+
+## Winners
+
+## 2020:
+
+On May 11, 2020, the University of Arizona Libraries [announced the 2020 winners](https://new.library.arizona.edu/news/2020-data-visualization-challenge-winners).  They are:
+
+First place:
+ + Kelsey Gonzalez, Graduate student: "How has human mobility changed under the COVID-19 Pandemic?"
+ + Reagen Leimbach, Undergraduate student: "Stacking of Galaxy Spectra"
+ 
+Second place:
+ + Miranda Rintoul, Graduate student: "The Price of Fertility"
+ + Jazmyn Winzer, Undergraduate student: "Botanical Gardens as Butterfly Hotspots in Urban Landscapes"
+
+Third place:
+ + Stephanie Martin, Graduate student: "Vesuvius Past and Present: Modern emergency planning compared to ancient hazards"
+ + Rob Lucha, Undergraduate studnet: "Wage & Value"
