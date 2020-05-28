@@ -64,6 +64,26 @@ All awards will be processed through the Bursar's Office. Please note: Awards wo
 Awards may also be considered taxable income. The winner is responsible for any related taxes.
 
 ## Exhibition of submissions
-Winning submissions will be made accessible through the Data Visualization Challenge website. In addition, any content that meets AV requirements will be presented in the Data Studio in the CATalyst Studios.
+Winning submissions will be made accessible through the Data Visualization Challenge website and the [University of Arizona Research Data Repository](https://arizona.figshare.com). In addition, any content that meets AV requirements will be presented in the Data Studio in the CATalyst Studios.
 
 If you have additional questions, see our [Frequently Asked Questions](faq.md) page.
+
+## Winners
+
+## 2020:
+
+On May 11, 2020, the University of Arizona Libraries [announced the 2020 winners](https://new.library.arizona.edu/news/2020-data-visualization-challenge-winners).  They are:
+
+First place:
+ + Kelsey Gonzalez, Graduate student: "How has human mobility changed under the COVID-19 Pandemic?"
+ + Reagen Leimbach, Undergraduate student: "Stacking of Galaxy Spectra"
+ 
+Second place:
+ + Miranda Rintoul, Graduate student: "The Price of Fertility"
+ + Jazmyn Winzer, Undergraduate student: "Botanical Gardens as Butterfly Hotspots in Urban Landscapes"
+
+Third place:
+ + Stephanie Martin, Graduate student: "Vesuvius Past and Present: Modern emergency planning compared to ancient hazards"
+ + Rob Lucha, Undergraduate studnet: "Wage & Value"
+ 
+These data visualizations will made available [here](https://doi.org/10.25422/azu.data.c.4986770) on the University of Arizona Research Data Repository.
