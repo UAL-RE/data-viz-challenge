@@ -4,6 +4,11 @@ title: Data Visualization Challenge
 
 # Data Visualization Challenge
 
+### The Data Visualization Challenge page has moved to our new [Data Cooperative domain](https://data.library.arizona.edu/data-viz-challenge)! Please visit this site for the latest information for the 2021 Challenge. An archive of our previous webpage is available below.
+
+---
+
+
 The Office of Digital Innovation & Stewardship at the University of Arizona Libraries is holding a data visualization challenge to highlight how UArizona students use visual displays of data to tell stories. Eligibility information and submission details can be found below.
 
 ![](assets/images/jason-coudriet-eQux_nmDew0-unsplash.jpg)
