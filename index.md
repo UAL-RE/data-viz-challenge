@@ -89,6 +89,6 @@ Second place:
 
 Third place:
  + Stephanie Martin, Graduate student: "Vesuvius Past and Present: Modern emergency planning compared to ancient hazards"
- + Rob Lucha, Undergraduate studnet: "Wage & Value"
+ + Rob Lucha, Undergraduate student: "Wage & Value"
  
 These data visualizations will made available [here](https://doi.org/10.25422/azu.data.c.4986770) on the University of Arizona Research Data Repository.
