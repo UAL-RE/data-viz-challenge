@@ -1,6 +1,6 @@
 # Data Viz Challenge
 
-This is the code repository for the University of Arizona Libraries' Data Visualization Challenge web page at [UAL-ODIS.github.io/data-viz-challenge](https://UAL-ODIS.github.io/data-viz-challenge).
+This is the code repository for the University of Arizona Libraries' Data Visualization Challenge web page at [UAL-RE.github.io/data-viz-challenge](https://UAL-RE.github.io/data-viz-challenge).
 
 ### Development notes
 These are largely taken from the GitHub help article [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll). Instructions below are for Linux, but the GitHub page has information for other operating systems.
